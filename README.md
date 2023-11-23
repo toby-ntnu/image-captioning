@@ -1,2 +1,2 @@
-# image-capt
- ViT-GPT2 Image Captioning
+# image-aesthetic-captioning
+Basic on ViT-GPT2 
